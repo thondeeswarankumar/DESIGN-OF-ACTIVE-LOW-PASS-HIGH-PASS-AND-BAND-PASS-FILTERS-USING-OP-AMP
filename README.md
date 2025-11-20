@@ -101,4 +101,5 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
 6. Calculate passband gain and plot the graph of frequency versus voltage gain & check the graph to get approximately the same characteristic as shown in the model graph.
 
 ## RESULT:
+<img width="1280" height="935" alt="image" src="https://github.com/user-attachments/assets/69549a60-b0b0-443d-841b-6b43f8d19765" />
 
